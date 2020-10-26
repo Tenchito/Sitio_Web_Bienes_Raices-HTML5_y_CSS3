@@ -133,3 +133,15 @@ h4 {font-size: 2.6rem;}
 .iconos-caracteristicas li {display: flex;}
 .iconos-caracteristicas li img {margin-right: 2rem;}
 .ver-todas {display: flex; justify-content: flex-end;}
+
+/* Contacto home */
+.imagen-contacto {
+    background-image: url(../img/encuentra.jpg);
+    height: 40rem;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.contenido-contacto { flex: 0 0 95%; color: #FFFFFF;}
+.contenido-contacto  p {font-size: 1.8rem;}
